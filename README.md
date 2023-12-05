@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# EmployeeDemo
-HR Employee Demo
+# HR Employee Demo
 =======
 ## Application Details
 |               |
@@ -9,7 +7,6 @@ HR Employee Demo
 |**App Generator**<br>@sap/generator-fiori-elements|
 |**App Generator Version**<br>1.11.5|
 |**Generation Platform**<br>SAP Business Application Studio|
-|**Template Used**<br>List Report Page V2|
 |**Service Type**<br>SAP System (ABAP On Premise)|
 |**Service URL**<br>http://saps09.cloud:443/sap/opu/odata/sap/ZNC_TEST_API_HR_SRV
 |**Module Name**<br>employeehr|
@@ -44,5 +41,6 @@ A Fiori application.
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+## Back-end Details
 
->>>>>>> b0b7825 (Initial Commit @12/4/2023, 10:06:53 PM)
+-   Report ZNC_MODIFY_EMPLOYEE (transaction ZNC_EMPL) displays and changes the data from custom table ZNC_EMPLOYEE_T
